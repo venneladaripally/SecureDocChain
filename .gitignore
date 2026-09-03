@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+dist/
+build/
+
+uploads/
+storage/
+.vercel/
+*.log
+npm-debug.log*
